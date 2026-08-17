@@ -1,0 +1,15 @@
+{
+	"name": "labinstance",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "21360a5c-4c64-4370-8b32-2f3185306b01",
+		"tenantId": "dda463c5-8a06-4696-9cce-dbc245b9b533"
+	}
+}
